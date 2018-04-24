@@ -1,0 +1,10 @@
+C:\Users\henrique.lpinheiro\logica\calccpf\bin\Debug\netcoreapp2.0\calccpf.deps.json
+C:\Users\henrique.lpinheiro\logica\calccpf\bin\Debug\netcoreapp2.0\calccpf.runtimeconfig.json
+C:\Users\henrique.lpinheiro\logica\calccpf\bin\Debug\netcoreapp2.0\calccpf.runtimeconfig.dev.json
+C:\Users\henrique.lpinheiro\logica\calccpf\bin\Debug\netcoreapp2.0\calccpf.dll
+C:\Users\henrique.lpinheiro\logica\calccpf\bin\Debug\netcoreapp2.0\calccpf.pdb
+C:\Users\henrique.lpinheiro\logica\calccpf\obj\Debug\netcoreapp2.0\calccpf.csproj.CoreCompileInputs.cache
+C:\Users\henrique.lpinheiro\logica\calccpf\obj\Debug\netcoreapp2.0\calccpf.AssemblyInfoInputs.cache
+C:\Users\henrique.lpinheiro\logica\calccpf\obj\Debug\netcoreapp2.0\calccpf.AssemblyInfo.cs
+C:\Users\henrique.lpinheiro\logica\calccpf\obj\Debug\netcoreapp2.0\calccpf.dll
+C:\Users\henrique.lpinheiro\logica\calccpf\obj\Debug\netcoreapp2.0\calccpf.pdb
