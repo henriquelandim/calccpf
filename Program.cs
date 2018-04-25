@@ -31,7 +31,7 @@ namespace calccpf
                 if(resto<2)
                     Console.WriteLine (cpf10+0);
                 else
-                    Console.WriteLine (cpf10+(11-0));
+                    Console.WriteLine (cpf10+(11-resto));
                 
 
         }
